@@ -4,7 +4,9 @@
       "Bash(npm test:*)",
       "Bash(npx eslint:*)",
       "Bash(find /Users/erick/Projects/pessoal/teste-itau/src -type f -name \"*.ts\" 2>/dev/null | head -20)",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "Bash(git remote:*)",
+      "Bash(ssh -T git@github-learnsouly)"
     ]
   }
 }
