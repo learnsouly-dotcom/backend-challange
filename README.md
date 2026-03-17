@@ -1,6 +1,6 @@
 # Password Validator API
 
-API para validação de senhas, construída com NestJS e TypeScript.
+API para validação de senhas, construída com NestJS com Express e TypeScript, Jest para unitários e com Supertest para end-to-end
 
 ## Pré-requisitos
 
